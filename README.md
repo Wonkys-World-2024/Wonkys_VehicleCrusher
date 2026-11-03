@@ -9,7 +9,11 @@
 4. OneSync is required. Reconnect if new models do not stream immediately.
 
 No SQL migration or new inventory items are required. Default jobs are mechanic and tow. Preserve resource KVP storage: it holds bales, shared bin stock, stripping bonuses and legacy unclaimed rewards. Keep the resource folder name unchanged.
+## Gameplay demos
 
+1. [Vehicle crusher in action](./part1.mp4)
+2. [Moving scrap with the forklift](./part2.mp4)
+3. [Scrap sorting and material bins](./part3.mp4)
 ## Full recycling workflow
 
 1. Bring an empty NPC/admin-spawned road vehicle, or request an NPC delivery through ox_target at the crusher control panel. Deliveries have a five-minute cooldown and require a clear bay.
