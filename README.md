@@ -1,5 +1,5 @@
 # Wonky Vehicle Crusher / Full Yard 2.0.8
-
+Preview https://www.youtube.com/watch?v=8btIEaW6a2w&t=4s
 ## Install / upgrade
 
 1. Stop Wonkys_VehicleCrusher with no forklift load or active cycle.
